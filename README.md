@@ -1,0 +1,2 @@
+# DataSciforPoliSci-Final-Project
+This project sought to determine whether there were partisan differences among self-identified Republicans and Democrats in their attitudes toward government-imposed COVID-19 mitigation policies like stay-at-home orders and business closures. Using a dataset from Nationscape, I took the means of the responses to public opinion survey questions regarding these mitigation policies and compared the results between Republicans and Democrats.
